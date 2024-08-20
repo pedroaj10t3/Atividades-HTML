@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Atividade 3</title>
+    </head>
+<body>
+    <style>
+        img{
+            border:10px solid black;
+        }
+    </style>
+    <img src="https://i.pinimg.com/564x/b5/52/98/b55298f4b0e0c8e20e882a822aa4c466.jpg" width="600px">
+
+</body>
+</html>
