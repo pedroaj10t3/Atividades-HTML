@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    section{
+        text-align: center;
+        background-color: lightyellow;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+    }
+</style>
+<body>
+    <section>
+        <h1>Titulo</h1>
+        <p>"Dark Souls" é um jogo de ação e RPG ambientado em um mundo sombrio e decadente, onde o jogador assume o papel de um guerreiro amaldiçoado. O objetivo é explorar reinos desolados, enfrentando criaturas monstruosas e desafiadores chefes em uma jornada para quebrar a maldição e descobrir a verdade por trás do ciclo de morte e renascimento que assola o mundo. O jogo é conhecido por sua dificuldade implacável, atmosfera opressiva e narrativa contada de forma indireta, desafiando o jogador a desvendar a história oculta através de itens, diálogos e ambientes.</p>
+    </section>
+</body>
+</html>
